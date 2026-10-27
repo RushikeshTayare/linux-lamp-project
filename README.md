@@ -28,7 +28,7 @@ The repository contains the application source code, configuration templates, da
 Document your actual installation and deployment steps here, including the Linux distribution, Apache configuration, PHP setup and database configuration.
 
 ### Screenshots
-Add screenshots of the running application, Linux services and database verification.
+1. AWS Running : https://github.com/RushikeshTayare/linux-lamp-project/blob/main/Aws%20Running.png
 
 ### Learning Outcomes
 Practical experience with Linux system administration, LAMP stack deployment, web server configuration and database management.
